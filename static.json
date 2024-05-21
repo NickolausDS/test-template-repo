@@ -147,12 +147,6 @@
                 "size": 10
             },
             {
-                "name": "Dates",
-                "field_name": "dc.dates.date",
-                "type": "date_histogram",
-                "date_interval": "day"
-            },
-            {
                 "name": "Qmap",
                 "field_name": "project_metadata.reprocessing.qmap.name",
                 "type": "terms",
