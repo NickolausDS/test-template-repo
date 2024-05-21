@@ -55,8 +55,8 @@
               "type": "rgba"
             },
             {
-              "label": "Time to Best",
-              "property": "entries[0].content.project_metadata.time_to_best"
+              "label": "Creator Name",
+              "property": "entries[0].content.dc.creators.[0].creatorName"
             },
             {
               "label": "Best Color",
