@@ -135,12 +135,6 @@
               "size": 10
             },
             {
-              "name": "Creator",
-              "field_name": "dc.creators.creatorName",
-              "type": "terms",
-              "size": 10
-            },
-            {
                 "name": "Parent Folder",
                 "field_name": "project_metadata.parent",
                 "type": "terms",
@@ -169,7 +163,7 @@
                 "field_name": "project_metadata.reprocessing.suffix",
                 "type": "terms",
                 "size": 10
-            },
+            }
           ]
         }
       }
