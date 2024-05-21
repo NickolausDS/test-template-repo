@@ -59,8 +59,8 @@
               "property": "entries[0].content.dc.creators.[0].creatorName"
             },
             {
-              "label": "Best Color",
-              "property": "entries[0].content.project_metadata.best_so_far",
+              "label": "Parent",
+              "property": "entries[0].content.project_metadata.parent",
               "type": "rgba"
             },
             {
