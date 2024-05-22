@@ -51,7 +51,7 @@
           "fields": [
             {
               "label": "Cycle",
-              "property": "entries[0].content.project_metadata.project_metadata.cycle",
+              "property": "entries[0].content.project_metadata.project_metadata.cycle"
             },
             {
               "label": "Creator Name",
@@ -59,7 +59,7 @@
             },
             {
               "label": "Parent",
-              "property": "entries[0].content.project_metadata.parent",
+              "property": "entries[0].content.project_metadata.parent"
             },
             {
               "label": "Total Time",
