@@ -58,6 +58,10 @@
               "property": "entries[0].content.dc.creators.[0].creatorName"
             },
             {
+              "label": "Dates",
+              "property": "entries[0].content.dc.year",
+            },
+            {
               "label": "Parent",
               "property": "entries[0].content.project_metadata.parent"
             },
