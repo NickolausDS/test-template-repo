@@ -59,7 +59,7 @@
             },
             {
               "label": "Dates",
-              "property": "entries[0].content.dc.year",
+              "property": "entries[0].content.dc.year"
             },
             {
               "label": "Parent",
