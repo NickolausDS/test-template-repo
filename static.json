@@ -52,7 +52,6 @@
             {
               "label": "Cycle",
               "property": "entries[0].content.project_metadata.project_metadata.cycle",
-              "type": "rgba"
             },
             {
               "label": "Creator Name",
@@ -61,7 +60,6 @@
             {
               "label": "Parent",
               "property": "entries[0].content.project_metadata.parent",
-              "type": "rgba"
             },
             {
               "label": "Total Time",
