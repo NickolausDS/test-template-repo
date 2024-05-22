@@ -72,7 +72,6 @@
           ]
         },
         "Result": {
-          "heading": "entries[0].content.project_metadata.experiment",
           "summary": "entries[0].content.subtitle",
           "fields": [
             {
